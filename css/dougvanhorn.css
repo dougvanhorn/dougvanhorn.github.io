@@ -1,0 +1,9 @@
+/* CSS */
+
+figure.img-left {
+    float: left;
+}
+
+figure.img-nocaption figcaption {
+    display: none;
+}
