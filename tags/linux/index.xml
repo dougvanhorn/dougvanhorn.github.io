@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Doug Van Horn</title>
-    <link>https://dougvanhorn.com/tags/linux/</link>
+    <link>https://dougvanhorn.github.io/tags/linux/</link>
     <description>Recent content in Linux on Doug Van Horn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 10:09:13 -0600</lastBuildDate>
     
-	<atom:link href="https://dougvanhorn.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dougvanhorn.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Get Hugo Up and Running</title>
-      <link>https://dougvanhorn.com/posts/get-hugo-up-and-running/</link>
+      <link>https://dougvanhorn.github.io/posts/get-hugo-up-and-running/</link>
       <pubDate>Wed, 05 Dec 2018 10:09:13 -0600</pubDate>
       
-      <guid>https://dougvanhorn.com/posts/get-hugo-up-and-running/</guid>
+      <guid>https://dougvanhorn.github.io/posts/get-hugo-up-and-running/</guid>
       <description>Here&amp;rsquo;s a quick reference for getting Hugo installed and running on a local Ubuntu 18.04 box. It also details the installation of the Coder theme and running the server.
 snap install hugo --channel=extended git submodule add https://github.com/luizdepra/hugo-coder.git themes/hugo-coder hugo server --buildDrafts This information was gleaned from:
- https://gohugo.io/getting-started/installing/#linux https://github.com/luizdepra/hugo-coder/  </description>
+ https://gohugo.io/getting-started/installing/#linux https://github.com/luizdepra/hugo-coder/  :wq</description>
     </item>
     
   </channel>

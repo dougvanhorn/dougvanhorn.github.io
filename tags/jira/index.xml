@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jira on Doug Van Horn</title>
-    <link>https://dougvanhorn.com/tags/jira/</link>
+    <link>https://dougvanhorn.github.io/tags/jira/</link>
     <description>Recent content in Jira on Doug Van Horn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 May 2018 09:40:00 -0500</lastBuildDate>
     
-	<atom:link href="https://dougvanhorn.com/tags/jira/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dougvanhorn.github.io/tags/jira/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Format Email Headers for Jira</title>
-      <link>https://dougvanhorn.com/posts/format-email-headers-for-jira/</link>
+      <link>https://dougvanhorn.github.io/posts/format-email-headers-for-jira/</link>
       <pubDate>Fri, 04 May 2018 09:40:00 -0500</pubDate>
       
-      <guid>https://dougvanhorn.com/posts/format-email-headers-for-jira/</guid>
+      <guid>https://dougvanhorn.github.io/posts/format-email-headers-for-jira/</guid>
       <description>On a daily basis I find myself forwarding emails to Jira Tickets. When Jira puts the text of the email into an attached comment, the email header is added as text. I like to see that header neatly formatted, so I wrote a Python script to quickly formatted that text before I send it to Jira.
 #!/usr/bin/env python3 import pyperclip def main(): cliptext = pyperclip.paste() try: formatted_lines = [] lines = [line for line in cliptext.</description>
     </item>

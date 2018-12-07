@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Doug Van Horn</title>
-    <link>https://dougvanhorn.com/tags/</link>
+    <link>https://dougvanhorn.github.io/tags/</link>
     <description>Recent content in Tags on Doug Van Horn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 10:09:13 -0600</lastBuildDate>
     
-	<atom:link href="https://dougvanhorn.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dougvanhorn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://dougvanhorn.com/tags/hugo/</link>
+      <link>https://dougvanhorn.github.io/tags/hugo/</link>
       <pubDate>Wed, 05 Dec 2018 10:09:13 -0600</pubDate>
       
-      <guid>https://dougvanhorn.com/tags/hugo/</guid>
+      <guid>https://dougvanhorn.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jira</title>
-      <link>https://dougvanhorn.com/tags/jira/</link>
+      <link>https://dougvanhorn.github.io/tags/jira/</link>
       <pubDate>Fri, 04 May 2018 09:40:00 -0500</pubDate>
       
-      <guid>https://dougvanhorn.com/tags/jira/</guid>
+      <guid>https://dougvanhorn.github.io/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://dougvanhorn.com/tags/linux/</link>
+      <link>https://dougvanhorn.github.io/tags/linux/</link>
       <pubDate>Wed, 05 Dec 2018 10:09:13 -0600</pubDate>
       
-      <guid>https://dougvanhorn.com/tags/linux/</guid>
+      <guid>https://dougvanhorn.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://dougvanhorn.com/tags/python/</link>
+      <link>https://dougvanhorn.github.io/tags/python/</link>
       <pubDate>Fri, 04 May 2018 09:40:00 -0500</pubDate>
       
-      <guid>https://dougvanhorn.com/tags/python/</guid>
+      <guid>https://dougvanhorn.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>https://dougvanhorn.com/tags/ubuntu/</link>
+      <link>https://dougvanhorn.github.io/tags/ubuntu/</link>
       <pubDate>Wed, 05 Dec 2018 10:09:13 -0600</pubDate>
       
-      <guid>https://dougvanhorn.com/tags/ubuntu/</guid>
+      <guid>https://dougvanhorn.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
